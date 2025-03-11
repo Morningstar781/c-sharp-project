@@ -1,0 +1,14 @@
+C:\Users\cybor\OneDrive\Desktop\menu\menu\bin\Debug\net8.0\menu.exe
+C:\Users\cybor\OneDrive\Desktop\menu\menu\bin\Debug\net8.0\menu.deps.json
+C:\Users\cybor\OneDrive\Desktop\menu\menu\bin\Debug\net8.0\menu.runtimeconfig.json
+C:\Users\cybor\OneDrive\Desktop\menu\menu\bin\Debug\net8.0\menu.dll
+C:\Users\cybor\OneDrive\Desktop\menu\menu\bin\Debug\net8.0\menu.pdb
+C:\Users\cybor\OneDrive\Desktop\menu\menu\obj\Debug\net8.0\menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cybor\OneDrive\Desktop\menu\menu\obj\Debug\net8.0\menu.AssemblyInfoInputs.cache
+C:\Users\cybor\OneDrive\Desktop\menu\menu\obj\Debug\net8.0\menu.AssemblyInfo.cs
+C:\Users\cybor\OneDrive\Desktop\menu\menu\obj\Debug\net8.0\menu.csproj.CoreCompileInputs.cache
+C:\Users\cybor\OneDrive\Desktop\menu\menu\obj\Debug\net8.0\menu.dll
+C:\Users\cybor\OneDrive\Desktop\menu\menu\obj\Debug\net8.0\refint\menu.dll
+C:\Users\cybor\OneDrive\Desktop\menu\menu\obj\Debug\net8.0\menu.pdb
+C:\Users\cybor\OneDrive\Desktop\menu\menu\obj\Debug\net8.0\menu.genruntimeconfig.cache
+C:\Users\cybor\OneDrive\Desktop\menu\menu\obj\Debug\net8.0\ref\menu.dll
